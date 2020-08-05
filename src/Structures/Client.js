@@ -11,7 +11,7 @@ const got = require('got'),
     api = 'https://pokeapi.co/api/v2/';
 
 /**
- * Client for pokeapi.co Wraper
+ * Client for pokeapi.co Wrapper
  */
 
 class PokeApiClient {
@@ -241,7 +241,7 @@ class PokeApiClient {
             self.deleteCache(self.typesPath).then(i => i),
             self.deleteCache(self.movesPath).then(i => i)
         ])
-        
+
         await Utils.wait(1.8e+6)
 
         self.clearCache();
