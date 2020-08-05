@@ -1,6 +1,6 @@
 {
-  "name": "pokeapi.js",
-  "version": "0.0.1",
+  "name": "@esponjosin/pokeapi.js",
+  "version": "0.0.2",
   "description": "pokeapi.js is a module that obtains the data from the page https://pokeapi.co and that allows the user to interact with the page in an easier way",
   "main": "index.js",
   "scripts": {

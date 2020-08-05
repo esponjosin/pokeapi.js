@@ -1,7 +1,7 @@
 ## PokeApi.js
 
 ```
-npm i pokeapi.js
+npm i @esponjosin/pokeapi.js
 ```
 
 
