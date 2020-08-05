@@ -4,7 +4,7 @@
 npm i pokeapi.js
 ```
 
-[Spanish](https://github.com/esponjosin/pokeapi.js/SPANISH.md)
+[Spanish](https://github.com/esponjosin/pokeapi.js/blob/master/SPANISH.md)
 
 
 ## Info
